@@ -40,12 +40,20 @@
   "footer": {
     "authors": "Made by Chopin Brothers"
   },
-  "guide": {
+  "guid": {
     "release_notes": "Release Notes",
     "contribute": "Caught a mistake or want to contribute to the documentation?",
     "edit_on_github": "Edit this page on GitHub!"
   },
-  "examples": {
-    "source_code": "Source Code"
-  }
+  "api": "API",
+  "ecosystem": "Ecosystem",
+  "examples": "Examples",
+  "faq": "FAQ",
+  "guide": "Guide",
+  "learn": "Learn",
+  "news": "News",
+  "resources": "Resources",
+  "search": "Search",
+  "support_nuxt_js": "Support Nuxt.js",
+  "translations": "Translations"
 }
