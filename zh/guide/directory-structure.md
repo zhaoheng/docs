@@ -79,21 +79,21 @@ _该文件名为Nuxt.js保留的，不可更改。_
 
 _该文件名为Nuxt.js保留的，不可更改。_
 
-## 别名
+## 别名（ Nuxt 在 v1.4.0 版本上）
 
 | 别名 | 目录 |
 |-----|------|
 | ~ | / |
-| ~assets | /assets |
-| ~components | /components |
-| ~pages | /pages |
-| ~plugins | /plugins |
-| ~static | /static |
-| ~store | /store |
+| ~/assets | /assets |
+| ~/components | /components |
+| ~/pages | /pages |
+| ~/plugins | /plugins |
+| ~/static | /static |
+| ~/store | /store |
 
-文件别名：
+文件别名：（ Nuxt 在 v1.4.0 版本上）
 
 | 别名 | 使用方法 | 描述 |
 |-------|------|--------------|
-| ~store | `const store = require('~store')` | 导入 `vuex` 状态树实例。 |
-| ~router | `const router = require('~router')`| 导入 `vue-router` 实例。 |
+| ~/store | `const store = require('~/store')` | 导入 `vuex` 状态树实例。 |
+| ~/router | `const router = require('~/router')`| 导入 `vue-router` 实例。 |
